@@ -76,7 +76,7 @@ export default {
       { id: 3, icon: "email", title: "Contact me", link: "#contactme" }
     ],
     img: {
-      placeholder: require("@/assets/bground.jpg"),
+      placeholder: require("@/assets/bground.jpeg"),
       avatar: require("@/assets/2.jpeg")
     }
   })
